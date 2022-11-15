@@ -9,9 +9,9 @@
 
 ## :woman_technologist: I'm a front-end developer specializing in `React`, `Redux` and `TypeScript`.
 
-- 💻 I’m currently working on projects based on React and Redux ecosystem.
+- 💻 Currently working on projects based on React and Redux ecosystem.
 
-- 📚 I’m currently learning React Native and Express.
+- 📚 Currently learning React Native and Express.
 
 - 📫 **How to reach me**:
 
